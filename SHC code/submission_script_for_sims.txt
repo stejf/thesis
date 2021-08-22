@@ -1,0 +1,22 @@
+# This submission script is used to submit the R Script `sims.R' to the cluster
+# so as to obtain text file outputs which can then be parsed 
+# using the R Script `sims_parse.R'.
+ 
+# For better understanding, compare the following submission script to the
+# example script given in section `How do I submit a job to the cluster?' of
+# http://sysnews.ma.imperial.ac.uk/compute-cluster/
+
+# This script was named for_mysims.pbs on the Maths HPC, and in order to
+# submit this job to the cluster, one would write qsub for_mysims.pbs in the Linux
+# command line.
+
+
+sf220@macomp001:~/shell_scripts$ nano for_mysims.pbs
+
+#!/bin/bash
+#PBS -N R_job 	   # giving job a meaningful name
+#PBS -m a	   # send email to user if job is aborted
+#PBS -t 1-645	   # index nos. associated with array job tasks (for $PBS_ARRAYID)
+#PBS -q standard   # so that queueing system to run job on the standard queue
+cd ${HOME}	   # specifying the user's working directory
+/usr/bin/R --vanilla <sims.R --args $PBS_ARRAYID 1 1000
