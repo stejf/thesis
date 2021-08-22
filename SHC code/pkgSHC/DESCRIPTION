@@ -1,0 +1,28 @@
+Package: pkgSHC
+Type: Package
+Title: pkgSHC: package implementing statistical significance for hierarchical
+    clustering
+Version: 0.99.9
+Date: 2016-08-31
+Author: Patrick Kimes
+Maintainer: Patrick Kimes <patrick.kimes@gmail.com>
+Description: Test for statistical significance in agglomerative hierarchical clustering used for simulations and real data analysis in Kimes et al. (2017). "Statistical Significance for Hierarchical Clustering", Biometrics. Complete and updated package maintained at: http://github.com/pkimes/sigclust2
+License: GPL (>= 2)
+Depends:
+    R(>= 3.0.2),
+    Rcpp (>= 0.10.6)
+Imports:
+    Rclusterpp,
+    WGCNA,
+    dplyr,
+    ggdendro,
+    ggplot2,
+    grid,
+    methods
+Suggests:
+    BiocStyle,
+    knitr,
+    RColorBrewer
+LinkingTo: Rcpp
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1

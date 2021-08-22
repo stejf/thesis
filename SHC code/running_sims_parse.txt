@@ -1,0 +1,8 @@
+# This Linux code is used to run the R Script `sims_parse.R' so as to parse
+# the output obtained from the R Script `sims.R' which was saved in the folder 
+# `outputs'. It is crucial that this code is run from the Linux directory 
+# containing the file `sims_parse.R' and the folder `outputs'.
+
+for K in `seq 1 5`; do
+	Rscript sims_parse.R "outputs" $K 1 1000 "_test" & 
+done

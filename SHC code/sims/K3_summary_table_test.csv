@@ -1,0 +1,301 @@
+"","ipart","n","p","v","delta","shape","df","SHC2zlink","SHC2zCI","SHC2link_time","SHC2CI_time","SHC2zlink_avg","SHC2zCI_avg","aRI","SHC2zlink_aRI","SHC2zCI_aRI"
+"1",31001,150,700,1,4,"line - mean signal in 1st direction",-1,0,0,5.84,7.02,1.17,1.23,0.31,0.07,0.09
+"2",31002,150,700,1,8,"line - mean signal in 1st direction",-1,472,713,9.54,13.9,2.1,2.46,0.86,0.51,0.64
+"3",31003,150,700,1,12,"line - mean signal in 1st direction",-1,804,928,10.07,12.57,2.61,2.86,1,0.8,0.93
+"4",31004,150,700,1,16,"line - mean signal in 1st direction",-1,689,938,10.36,13.62,2.38,2.88,1,0.69,0.94
+"5",31005,150,700,1,20,"line - mean signal in 1st direction",-1,669,963,10.27,13.61,2.34,2.93,1,0.67,0.96
+"6",31006,150,700,1,4,"line - mean signal in 1st direction",6,0,0,5.08,6.03,1,1,0.2,0,0
+"7",31007,150,700,1,8,"line - mean signal in 1st direction",6,2,5,6.25,7.63,1.36,1.43,0.67,0.18,0.22
+"8",31008,150,700,1,12,"line - mean signal in 1st direction",6,701,841,10.94,13.76,2.41,2.69,0.96,0.68,0.82
+"9",31009,150,700,1,16,"line - mean signal in 1st direction",6,710,917,10.38,13.09,2.42,2.83,1,0.71,0.92
+"10",31010,150,700,1,20,"line - mean signal in 1st direction",6,637,942,10.77,13.71,2.28,2.89,1,0.64,0.94
+"11",31011,150,700,1,4,"line - mean signal in 1st direction",3,194,198,10.23,12.22,2.1,2.11,0,0,0
+"12",31012,150,700,1,8,"line - mean signal in 1st direction",3,127,131,7.46,10.92,1.68,1.72,0.3,0.01,0.02
+"13",31013,150,700,1,12,"line - mean signal in 1st direction",3,107,158,6.29,11.08,1.65,1.82,0.54,0.17,0.22
+"14",31014,150,700,1,16,"line - mean signal in 1st direction",3,347,433,10.65,13.75,2.41,2.82,0.77,0.54,0.68
+"15",31015,150,700,1,20,"line - mean signal in 1st direction",3,504,609,15.18,20.63,2.58,3.1,0.89,0.68,0.87
+"16",31016,150,700,10,4,"line - mean signal in 1st direction",-1,0,0,8.77,10.32,1,1.01,0.18,0,0
+"17",31017,150,700,10,8,"line - mean signal in 1st direction",-1,1,2,8.87,10.55,1.15,1.22,0.48,0.07,0.1
+"18",31018,150,700,10,12,"line - mean signal in 1st direction",-1,61,172,8.41,10.36,1.23,1.5,0.77,0.11,0.23
+"19",31019,150,700,10,16,"line - mean signal in 1st direction",-1,249,603,8.33,12.7,1.51,2.22,0.94,0.24,0.57
+"20",31020,150,700,10,20,"line - mean signal in 1st direction",-1,335,797,8.45,18.02,1.67,2.59,0.99,0.33,0.79
+"21",31021,150,700,10,4,"line - mean signal in 1st direction",6,0,0,8.82,10.32,1,1,0.13,0,0
+"22",31022,150,700,10,8,"line - mean signal in 1st direction",6,0,0,8.86,10.37,1.05,1.08,0.4,0.02,0.03
+"23",31023,150,700,10,12,"line - mean signal in 1st direction",6,5,11,8.85,10.6,1.11,1.22,0.66,0.05,0.11
+"24",31024,150,700,10,16,"line - mean signal in 1st direction",6,126,318,8.48,10.67,1.32,1.72,0.85,0.15,0.32
+"25",31025,150,700,10,20,"line - mean signal in 1st direction",6,247,596,5.95,12.6,1.51,2.2,0.94,0.25,0.56
+"26",31026,150,700,10,4,"line - mean signal in 1st direction",3,143,143,8.73,10.94,1.8,1.81,0.03,0,0
+"27",31027,150,700,10,8,"line - mean signal in 1st direction",3,52,52,6.03,7.11,1.37,1.38,0.25,0,0
+"28",31028,150,700,10,12,"line - mean signal in 1st direction",3,23,38,5.76,6.87,1.21,1.25,0.42,0.02,0.04
+"29",31029,150,700,10,16,"line - mean signal in 1st direction",3,30,75,5.72,6.92,1.22,1.37,0.61,0.05,0.11
+"30",31030,150,700,10,20,"line - mean signal in 1st direction",3,95,204,5.81,7.25,1.37,1.75,0.76,0.13,0.27
+"31",31031,150,700,50,4,"line - mean signal in 1st direction",-1,0,0,5.73,6.74,1,1,0.06,0,0
+"32",31032,150,700,50,8,"line - mean signal in 1st direction",-1,0,0,5.75,6.75,1,1,0.2,0,0
+"33",31033,150,700,50,12,"line - mean signal in 1st direction",-1,0,0,8.72,10.14,1.01,1.05,0.34,0.01,0.02
+"34",31034,150,700,50,16,"line - mean signal in 1st direction",-1,0,2,8.5,10.23,1.08,1.25,0.48,0.04,0.11
+"35",31035,150,700,50,20,"line - mean signal in 1st direction",-1,0,27,8.62,10.63,1.11,1.38,0.62,0.05,0.18
+"36",31036,150,700,50,4,"line - mean signal in 1st direction",6,0,0,8.25,9.65,1,1,0.05,0,0
+"37",31037,150,700,50,8,"line - mean signal in 1st direction",6,0,0,8.6,10.04,1,1,0.16,0,0
+"38",31038,150,700,50,12,"line - mean signal in 1st direction",6,0,0,8.24,9.56,1,1.01,0.3,0,0.01
+"39",31039,150,700,50,16,"line - mean signal in 1st direction",6,0,0,8.57,10.19,1.01,1.07,0.43,0.01,0.03
+"40",31040,150,700,50,20,"line - mean signal in 1st direction",6,0,2,8.65,10.3,1.03,1.18,0.56,0.02,0.08
+"41",31041,150,700,50,4,"line - mean signal in 1st direction",3,14,14,8.45,9.99,1.16,1.16,0.03,0,0
+"42",31042,150,700,50,8,"line - mean signal in 1st direction",3,6,6,8.77,10.27,1.09,1.1,0.13,0,0
+"43",31043,150,700,50,12,"line - mean signal in 1st direction",3,1,3,4.9,6.77,1.06,1.07,0.24,0,0
+"44",31044,150,700,50,16,"line - mean signal in 1st direction",3,2,6,4.95,6.81,1.04,1.05,0.35,0,0
+"45",31045,150,700,50,20,"line - mean signal in 1st direction",3,1,6,4.85,6.78,1.03,1.07,0.45,0,0.02
+"46",31046,150,700,100,4,"line - mean signal in 1st direction",-1,0,0,4.9,6.79,1,1,0.03,0,0
+"47",31047,150,700,100,8,"line - mean signal in 1st direction",-1,0,0,4.69,6.5,1,1,0.12,0,0
+"48",31048,150,700,100,12,"line - mean signal in 1st direction",-1,0,0,4.82,6.68,1,1.01,0.22,0,0
+"49",31049,150,700,100,16,"line - mean signal in 1st direction",-1,0,1,4.72,6.64,1.01,1.05,0.33,0,0.02
+"50",31050,150,700,100,20,"line - mean signal in 1st direction",-1,0,4,4.71,6.82,1.03,1.23,0.43,0.01,0.1
+"51",31051,150,700,100,4,"line - mean signal in 1st direction",6,0,0,4.81,6.64,1,1,0.03,0,0
+"52",31052,150,700,100,8,"line - mean signal in 1st direction",6,0,0,8.18,9.49,1,1,0.1,0,0
+"53",31053,150,700,100,12,"line - mean signal in 1st direction",6,0,0,8.13,9.49,1,1,0.19,0,0
+"54",31054,150,700,100,16,"line - mean signal in 1st direction",6,0,0,8.29,9.72,1,1.02,0.28,0,0.01
+"55",31055,150,700,100,20,"line - mean signal in 1st direction",6,0,0,8.15,9.73,1.01,1.08,0.38,0,0.03
+"56",31056,150,700,100,4,"line - mean signal in 1st direction",3,3,3,8.39,9.63,1.05,1.06,0.02,0,0
+"57",31057,150,700,100,8,"line - mean signal in 1st direction",3,1,1,8.23,9.51,1.05,1.05,0.08,0,0
+"58",31058,150,700,100,12,"line - mean signal in 1st direction",3,0,0,8.24,9.63,1.03,1.04,0.15,0,0
+"59",31059,150,700,100,16,"line - mean signal in 1st direction",3,1,2,5.72,7.14,1.03,1.04,0.24,0,0
+"60",31060,150,700,100,20,"line - mean signal in 1st direction",3,0,1,5.83,7.15,1.02,1.03,0.31,0,0
+"61",31061,150,700,1000,4,"line - mean signal in 1st direction",-1,0,1,5.72,7.09,1,1.02,0,0,0
+"62",31062,150,700,1000,8,"line - mean signal in 1st direction",-1,0,0,5.7,7.11,1,1.01,0.01,0,0
+"63",31063,150,700,1000,12,"line - mean signal in 1st direction",-1,0,0,4.39,5.47,1,1.01,0.03,0,0
+"64",31064,150,700,1000,16,"line - mean signal in 1st direction",-1,0,1,4.39,5.5,1,1.02,0.05,0,0
+"65",31065,150,700,1000,20,"line - mean signal in 1st direction",-1,0,0,4.39,5.48,1,1.02,0.08,0,0
+"66",31066,150,700,1000,4,"line - mean signal in 1st direction",6,0,0,8.15,9.5,1,1,0,0,0
+"67",31067,150,700,1000,8,"line - mean signal in 1st direction",6,0,0,4.19,5.15,1,1,0.01,0,0
+"68",31068,150,700,1000,12,"line - mean signal in 1st direction",6,0,0,4.27,5.1,1,1,0.02,0,0
+"69",31069,150,700,1000,16,"line - mean signal in 1st direction",6,0,0,4.13,5.15,1,1,0.04,0,0
+"70",31070,150,700,1000,20,"line - mean signal in 1st direction",6,0,0,4.05,4.89,1,1,0.06,0,0
+"71",31071,150,700,1000,4,"line - mean signal in 1st direction",3,0,0,3.98,4.89,1.01,1.01,0,0,0
+"72",31072,150,700,1000,8,"line - mean signal in 1st direction",3,0,0,15.96,18.19,1.01,1.01,0.01,0,0
+"73",31073,150,700,1000,12,"line - mean signal in 1st direction",3,0,0,15.64,17.97,1.01,1.01,0.02,0,0
+"74",31074,150,700,1000,16,"line - mean signal in 1st direction",3,0,0,15.3,17.9,1.01,1.02,0.03,0,0
+"75",31075,150,700,1000,20,"line - mean signal in 1st direction",3,0,0,4.4,6.02,1.01,1.01,0.05,0,0
+"76",32001,150,700,1,4,"line - mean signal in 2nd direction",-1,0,0,4.54,6.31,1.19,1.26,0.32,0.08,0.11
+"77",32002,150,700,1,8,"line - mean signal in 2nd direction",-1,449,715,7.88,12.37,2.08,2.47,0.86,0.5,0.65
+"78",32003,150,700,1,12,"line - mean signal in 2nd direction",-1,746,937,11.11,13.86,2.49,2.87,1,0.74,0.93
+"79",32004,150,700,1,16,"line - mean signal in 2nd direction",-1,692,944,10.92,13.89,2.38,2.89,1,0.69,0.94
+"80",32005,150,700,1,20,"line - mean signal in 2nd direction",-1,653,971,10.94,13.93,2.31,2.94,1,0.65,0.97
+"81",32006,150,700,1,4,"line - mean signal in 2nd direction",6,0,0,5.58,6.71,1,1.01,0.21,0,0
+"82",32007,150,700,1,8,"line - mean signal in 2nd direction",6,6,7,5.86,7.25,1.35,1.44,0.67,0.18,0.22
+"83",32008,150,700,1,12,"line - mean signal in 2nd direction",6,701,833,11.19,13.85,2.4,2.67,0.96,0.68,0.81
+"84",32009,150,700,1,16,"line - mean signal in 2nd direction",6,682,901,11,13.88,2.36,2.81,1,0.68,0.9
+"85",32010,150,700,1,20,"line - mean signal in 2nd direction",6,662,929,10.89,13.88,2.32,2.86,1,0.66,0.93
+"86",32011,150,700,1,4,"line - mean signal in 2nd direction",3,218,211,10.8,12.79,2.12,2.13,0,0,0
+"87",32012,150,700,1,8,"line - mean signal in 2nd direction",3,110,121,6.38,7.61,1.66,1.68,0.31,0.01,0.02
+"88",32013,150,700,1,12,"line - mean signal in 2nd direction",3,108,153,6.04,10.59,1.63,1.79,0.54,0.16,0.21
+"89",32014,150,700,1,16,"line - mean signal in 2nd direction",3,334,441,10.31,13.76,2.33,2.82,0.78,0.51,0.69
+"90",32015,150,700,1,20,"line - mean signal in 2nd direction",3,519,641,10.9,13.94,2.6,3.1,0.89,0.69,0.88
+"91",32016,150,700,10,4,"line - mean signal in 2nd direction",-1,0,0,5.52,6.68,1.1,1.13,0.27,0.04,0.05
+"92",32017,150,700,10,8,"line - mean signal in 2nd direction",-1,387,664,9.31,13.44,2.01,2.4,0.84,0.47,0.61
+"93",32018,150,700,10,12,"line - mean signal in 2nd direction",-1,795,951,10.92,13.54,2.59,2.9,1,0.79,0.95
+"94",32019,150,700,10,16,"line - mean signal in 2nd direction",-1,713,944,11.08,13.87,2.43,2.89,1,0.71,0.94
+"95",32020,150,700,10,20,"line - mean signal in 2nd direction",-1,641,961,10.96,13.96,2.28,2.92,1,0.64,0.96
+"96",32021,150,700,10,4,"line - mean signal in 2nd direction",6,0,0,5.56,6.69,1,1,0.16,0,0
+"97",32022,150,700,10,8,"line - mean signal in 2nd direction",6,0,0,5.93,7.1,1.36,1.42,0.62,0.18,0.21
+"98",32023,150,700,10,12,"line - mean signal in 2nd direction",6,694,841,10.93,13.67,2.4,2.69,0.96,0.67,0.81
+"99",32024,150,700,10,16,"line - mean signal in 2nd direction",6,724,917,10.86,13.64,2.45,2.83,1,0.72,0.91
+"100",32025,150,700,10,20,"line - mean signal in 2nd direction",6,666,942,10.74,13.7,2.33,2.89,1,0.67,0.94
+"101",32026,150,700,10,4,"line - mean signal in 2nd direction",3,178,177,10.57,12.49,1.95,1.97,0,0,0
+"102",32027,150,700,10,8,"line - mean signal in 2nd direction",3,116,120,10.69,12.38,1.65,1.67,0.29,0.01,0.02
+"103",32028,150,700,10,12,"line - mean signal in 2nd direction",3,93,118,10.05,12.93,1.6,1.72,0.53,0.16,0.19
+"104",32029,150,700,10,16,"line - mean signal in 2nd direction",3,320,390,15.28,19.16,2.29,2.68,0.77,0.5,0.63
+"105",32030,150,700,10,20,"line - mean signal in 2nd direction",3,507,608,16.69,20.87,2.58,3.11,0.88,0.67,0.87
+"106",32031,150,700,50,4,"line - mean signal in 2nd direction",-1,0,0,8.05,9.31,1,1,0.03,0,0
+"107",32032,150,700,50,8,"line - mean signal in 2nd direction",-1,0,0,8.06,9.37,1.05,1.08,0.37,0.03,0.04
+"108",32033,150,700,50,12,"line - mean signal in 2nd direction",-1,168,225,14.45,17.35,1.94,2.12,0.8,0.52,0.61
+"109",32034,150,700,50,16,"line - mean signal in 2nd direction",-1,800,959,16.05,19.52,2.62,2.93,0.99,0.81,0.96
+"110",32035,150,700,50,20,"line - mean signal in 2nd direction",-1,747,973,13.3,20.12,2.49,2.95,1,0.75,0.97
+"111",32036,150,700,50,4,"line - mean signal in 2nd direction",6,0,0,8.84,10.41,1,1,0.01,0,0
+"112",32037,150,700,50,8,"line - mean signal in 2nd direction",6,0,0,9.1,10.59,1,1,0.29,0,0
+"113",32038,150,700,50,12,"line - mean signal in 2nd direction",6,3,3,9.55,11.71,1.42,1.51,0.57,0.23,0.28
+"114",32039,150,700,50,16,"line - mean signal in 2nd direction",6,384,497,11.11,16.85,2.13,2.4,0.92,0.59,0.72
+"115",32040,150,700,50,20,"line - mean signal in 2nd direction",6,708,908,11.67,19.26,2.45,2.86,0.99,0.72,0.93
+"116",32041,150,700,50,4,"line - mean signal in 2nd direction",3,13,14,8.95,10.51,1.16,1.16,0,0,0
+"117",32042,150,700,50,8,"line - mean signal in 2nd direction",3,13,16,9.11,10.67,1.15,1.17,0.06,0,0
+"118",32043,150,700,50,12,"line - mean signal in 2nd direction",3,9,13,8.93,10.56,1.17,1.18,0.37,0.01,0.01
+"119",32044,150,700,50,16,"line - mean signal in 2nd direction",3,74,103,9.38,11.74,1.5,1.64,0.58,0.2,0.25
+"120",32045,150,700,50,20,"line - mean signal in 2nd direction",3,203,273,9.93,15.75,1.96,2.24,0.78,0.43,0.54
+"121",32046,150,700,100,4,"line - mean signal in 2nd direction",-1,0,0,5.62,7.65,1,1,0.01,0,0
+"122",32047,150,700,100,8,"line - mean signal in 2nd direction",-1,0,3,5.59,7.74,1,1.01,0.19,0,0
+"123",32048,150,700,100,12,"line - mean signal in 2nd direction",-1,0,0,4.99,6.96,1.15,1.21,0.43,0.09,0.11
+"124",32049,150,700,100,16,"line - mean signal in 2nd direction",-1,57,88,8.3,11.78,1.74,1.94,0.69,0.42,0.52
+"125",32050,150,700,100,20,"line - mean signal in 2nd direction",-1,676,836,9.91,14.21,2.5,2.81,0.97,0.76,0.91
+"126",32051,150,700,100,4,"line - mean signal in 2nd direction",6,0,0,4.9,6.78,1,1,0.01,0,0
+"127",32052,150,700,100,8,"line - mean signal in 2nd direction",6,0,0,4.9,6.76,1,1,0.08,0,0
+"128",32053,150,700,100,12,"line - mean signal in 2nd direction",6,0,0,4.83,6.48,1,1,0.36,0,0
+"129",32054,150,700,100,16,"line - mean signal in 2nd direction",6,1,2,4.99,7.32,1.3,1.44,0.54,0.17,0.25
+"130",32055,150,700,100,20,"line - mean signal in 2nd direction",6,107,167,7.68,11.02,1.76,2,0.81,0.43,0.55
+"131",32056,150,700,100,4,"line - mean signal in 2nd direction",3,3,3,4.84,6.52,1.06,1.07,0,0,0
+"132",32057,150,700,100,8,"line - mean signal in 2nd direction",3,1,3,5.21,6.28,1.07,1.08,0.02,0,0
+"133",32058,150,700,100,12,"line - mean signal in 2nd direction",3,2,3,5,5.99,1.05,1.06,0.16,0,0
+"134",32059,150,700,100,16,"line - mean signal in 2nd direction",3,4,8,5.14,6.27,1.07,1.1,0.41,0.01,0.01
+"135",32060,150,700,100,20,"line - mean signal in 2nd direction",3,30,46,5.81,7.09,1.28,1.41,0.56,0.12,0.17
+"136",32061,150,700,1000,4,"line - mean signal in 2nd direction",-1,0,0,5.62,6.68,1,1.02,0,0,0
+"137",32062,150,700,1000,8,"line - mean signal in 2nd direction",-1,0,0,5.6,6.65,1,1.02,0.01,0,0
+"138",32063,150,700,1000,12,"line - mean signal in 2nd direction",-1,0,0,5.61,6.69,1,1,0.01,0,0
+"139",32064,150,700,1000,16,"line - mean signal in 2nd direction",-1,0,0,5.67,6.62,1,1.01,0.03,0,0
+"140",32065,150,700,1000,20,"line - mean signal in 2nd direction",-1,0,1,5.65,6.63,1,1.01,0.07,0,0
+"141",32066,150,700,1000,4,"line - mean signal in 2nd direction",6,0,0,5.62,6.66,1,1,0,0,0
+"142",32067,150,700,1000,8,"line - mean signal in 2nd direction",6,0,0,5.65,6.6,1,1,0,0,0
+"143",32068,150,700,1000,12,"line - mean signal in 2nd direction",6,0,0,8.62,10.1,1,1,0.01,0,0
+"144",32069,150,700,1000,16,"line - mean signal in 2nd direction",6,0,0,8.63,10.13,1,1,0.02,0,0
+"145",32070,150,700,1000,20,"line - mean signal in 2nd direction",6,0,0,8.78,10.27,1,1,0.03,0,0
+"146",32071,150,700,1000,4,"line - mean signal in 2nd direction",3,0,0,8.87,10.38,1.02,1.02,0,0,0
+"147",32072,150,700,1000,8,"line - mean signal in 2nd direction",3,0,0,8.78,10.42,1.02,1.03,0,0,0
+"148",32073,150,700,1000,12,"line - mean signal in 2nd direction",3,0,0,8.52,10.17,1.01,1.02,0,0,0
+"149",32074,150,700,1000,16,"line - mean signal in 2nd direction",3,0,0,8.83,10.34,1.01,1.02,0.01,0,0
+"150",32075,150,700,1000,20,"line - mean signal in 2nd direction",3,0,0,8.58,10.1,1,1.01,0.02,0,0
+"151",33001,150,700,1,4,"trianglejitter - mean signal in first 2 directions",-1,0,1,8.86,10.38,1.04,1.07,0.15,0.02,0.02
+"152",33002,150,700,1,8,"trianglejitter - mean signal in first 2 directions",-1,331,450,12.31,15.49,2.22,2.36,0.71,0.59,0.64
+"153",33003,150,700,1,12,"trianglejitter - mean signal in first 2 directions",-1,754,816,12.52,15.08,2.75,2.81,0.91,0.87,0.89
+"154",33004,150,700,1,16,"trianglejitter - mean signal in first 2 directions",-1,892,924,28.43,33.67,2.89,2.92,0.96,0.94,0.95
+"155",33005,150,700,1,20,"trianglejitter - mean signal in first 2 directions",-1,954,964,32.23,37.68,2.95,2.96,0.98,0.97,0.98
+"156",33006,150,700,1,4,"trianglejitter - mean signal in first 2 directions",6,0,0,6.21,8.19,1,1,0.07,0,0
+"157",33007,150,700,1,8,"trianglejitter - mean signal in first 2 directions",6,112,114,8.28,11.41,1.75,1.76,0.53,0.35,0.35
+"158",33008,150,700,1,12,"trianglejitter - mean signal in first 2 directions",6,559,571,9.56,13.42,2.51,2.52,0.82,0.74,0.75
+"159",33009,150,700,1,16,"trianglejitter - mean signal in first 2 directions",6,802,807,10.52,14.67,2.79,2.8,0.92,0.89,0.89
+"160",33010,150,700,1,20,"trianglejitter - mean signal in first 2 directions",6,909,911,10.55,14.7,2.9,2.91,0.97,0.95,0.95
+"161",33011,150,700,1,4,"trianglejitter - mean signal in first 2 directions",3,209,212,9.79,13.22,2.12,2.12,0,0,0
+"162",33012,150,700,1,8,"trianglejitter - mean signal in first 2 directions",3,188,191,9.48,12.87,2.02,2.03,0.1,0.03,0.03
+"163",33013,150,700,1,12,"trianglejitter - mean signal in first 2 directions",3,281,298,10.01,13.57,2.38,2.43,0.42,0.33,0.34
+"164",33014,150,700,1,16,"trianglejitter - mean signal in first 2 directions",3,424,431,10.5,14.85,2.7,2.8,0.62,0.6,0.62
+"165",33015,150,700,1,20,"trianglejitter - mean signal in first 2 directions",3,553,548,10.63,15.12,2.92,3.05,0.76,0.77,0.78
+"166",33016,150,700,10,4,"trianglejitter - mean signal in first 2 directions",-1,0,0,4.71,6.55,1,1.01,0.11,0,0
+"167",33017,150,700,10,8,"trianglejitter - mean signal in first 2 directions",-1,100,125,5.83,10.26,1.57,1.63,0.52,0.27,0.29
+"168",33018,150,700,10,12,"trianglejitter - mean signal in first 2 directions",-1,465,530,8.66,12.52,2.33,2.43,0.79,0.65,0.68
+"169",33019,150,700,10,16,"trianglejitter - mean signal in first 2 directions",-1,742,781,9.8,13.61,2.7,2.75,0.9,0.84,0.86
+"170",33020,150,700,10,20,"trianglejitter - mean signal in first 2 directions",-1,873,894,10.04,13.82,2.86,2.89,0.95,0.92,0.93
+"171",33021,150,700,10,4,"trianglejitter - mean signal in first 2 directions",6,0,0,6.55,7.81,1,1,0.06,0,0
+"172",33022,150,700,10,8,"trianglejitter - mean signal in first 2 directions",6,15,21,6.54,7.83,1.22,1.25,0.39,0.11,0.12
+"173",33023,150,700,10,12,"trianglejitter - mean signal in first 2 directions",6,218,251,10.92,13.32,1.92,1.99,0.68,0.45,0.47
+"174",33024,150,700,10,16,"trianglejitter - mean signal in first 2 directions",6,529,570,12.53,15.56,2.43,2.48,0.83,0.7,0.72
+"175",33025,150,700,10,20,"trianglejitter - mean signal in first 2 directions",6,731,772,10.27,12.65,2.69,2.74,0.91,0.83,0.85
+"176",33026,150,700,10,4,"trianglejitter - mean signal in first 2 directions",3,151,157,9.75,11.51,1.89,1.89,0,0,0
+"177",33027,150,700,10,8,"trianglejitter - mean signal in first 2 directions",3,135,136,9.34,11.09,1.74,1.75,0.11,0.01,0.01
+"178",33028,150,700,10,12,"trianglejitter - mean signal in first 2 directions",3,146,153,8.72,10.83,1.76,1.78,0.34,0.13,0.14
+"179",33029,150,700,10,16,"trianglejitter - mean signal in first 2 directions",3,281,293,9.44,11.43,2.16,2.25,0.56,0.39,0.41
+"180",33030,150,700,10,20,"trianglejitter - mean signal in first 2 directions",3,370,382,9.84,12.51,2.48,2.65,0.69,0.58,0.6
+"181",33031,150,700,50,4,"trianglejitter - mean signal in first 2 directions",-1,0,0,5.42,6.5,1,1,0.02,0,0
+"182",33032,150,700,50,8,"trianglejitter - mean signal in first 2 directions",-1,0,0,5.45,6.54,1,1,0.18,0,0
+"183",33033,150,700,50,12,"trianglejitter - mean signal in first 2 directions",-1,9,14,6.56,7.75,1.11,1.14,0.45,0.06,0.07
+"184",33034,150,700,50,16,"trianglejitter - mean signal in first 2 directions",-1,56,93,6.82,8.03,1.37,1.46,0.62,0.19,0.23
+"185",33035,150,700,50,20,"trianglejitter - mean signal in first 2 directions",-1,187,262,7.94,11.35,1.74,1.89,0.75,0.38,0.45
+"186",33036,150,700,50,4,"trianglejitter - mean signal in first 2 directions",6,0,0,6.42,7.58,1,1,0.02,0,0
+"187",33037,150,700,50,8,"trianglejitter - mean signal in first 2 directions",6,0,0,9.1,10.77,1,1,0.12,0,0
+"188",33038,150,700,50,12,"trianglejitter - mean signal in first 2 directions",6,1,2,11.64,13.64,1.03,1.04,0.35,0.02,0.02
+"189",33039,150,700,50,16,"trianglejitter - mean signal in first 2 directions",6,25,41,9.28,10.8,1.19,1.23,0.55,0.1,0.12
+"190",33040,150,700,50,20,"trianglejitter - mean signal in first 2 directions",6,100,148,12.09,14.49,1.49,1.6,0.67,0.25,0.3
+"191",33041,150,700,50,4,"trianglejitter - mean signal in first 2 directions",3,15,16,11.75,13.73,1.17,1.18,0.01,0,0
+"192",33042,150,700,50,8,"trianglejitter - mean signal in first 2 directions",3,6,8,11.71,13.81,1.12,1.13,0.05,0,0
+"193",33043,150,700,50,12,"trianglejitter - mean signal in first 2 directions",3,6,9,11.75,13.72,1.1,1.11,0.18,0,0
+"194",33044,150,700,50,16,"trianglejitter - mean signal in first 2 directions",3,10,9,11.77,13.93,1.13,1.14,0.37,0.02,0.03
+"195",33045,150,700,50,20,"trianglejitter - mean signal in first 2 directions",3,38,55,11.75,13.92,1.25,1.3,0.5,0.08,0.1
+"196",33046,150,700,100,4,"trianglejitter - mean signal in first 2 directions",-1,0,0,9.19,10.58,1,1,0.01,0,0
+"197",33047,150,700,100,8,"trianglejitter - mean signal in first 2 directions",-1,0,0,13.94,16.17,1,1,0.07,0,0
+"198",33048,150,700,100,12,"trianglejitter - mean signal in first 2 directions",-1,1,1,6.17,8.41,1.01,1.01,0.22,0,0.01
+"199",33049,150,700,100,16,"trianglejitter - mean signal in first 2 directions",-1,7,7,6.18,8.29,1.08,1.1,0.42,0.04,0.05
+"200",33050,150,700,100,20,"trianglejitter - mean signal in first 2 directions",-1,16,44,6.29,8.85,1.19,1.27,0.55,0.1,0.14
+"201",33051,150,700,100,4,"trianglejitter - mean signal in first 2 directions",6,0,0,4.81,6.55,1,1,0.01,0,0
+"202",33052,150,700,100,8,"trianglejitter - mean signal in first 2 directions",6,0,0,4.83,6.58,1,1,0.04,0,0
+"203",33053,150,700,100,12,"trianglejitter - mean signal in first 2 directions",6,0,0,4.81,6.51,1,1,0.16,0,0
+"204",33054,150,700,100,16,"trianglejitter - mean signal in first 2 directions",6,0,1,4.78,6.54,1.02,1.03,0.32,0.01,0.01
+"205",33055,150,700,100,20,"trianglejitter - mean signal in first 2 directions",6,3,14,4.78,6.71,1.07,1.12,0.46,0.04,0.06
+"206",33056,150,700,100,4,"trianglejitter - mean signal in first 2 directions",3,4,3,4.75,6.64,1.06,1.06,0.01,0,0
+"207",33057,150,700,100,8,"trianglejitter - mean signal in first 2 directions",3,0,1,4.76,6.71,1.05,1.06,0.03,0,0
+"208",33058,150,700,100,12,"trianglejitter - mean signal in first 2 directions",3,1,1,4.77,6.69,1.04,1.04,0.08,0,0
+"209",33059,150,700,100,16,"trianglejitter - mean signal in first 2 directions",3,1,1,4.74,6.57,1.04,1.05,0.2,0,0
+"210",33060,150,700,100,20,"trianglejitter - mean signal in first 2 directions",3,3,5,6.33,7.6,1.06,1.07,0.32,0.01,0.01
+"211",33061,150,700,1000,4,"trianglejitter - mean signal in first 2 directions",-1,0,0,6.29,7.54,1,1.01,0,0,0
+"212",33062,150,700,1000,8,"trianglejitter - mean signal in first 2 directions",-1,0,0,6.52,7.67,1,1.01,0.01,0,0
+"213",33063,150,700,1000,12,"trianglejitter - mean signal in first 2 directions",-1,0,0,5.32,6.36,1,1.02,0.02,0,0
+"214",33064,150,700,1000,16,"trianglejitter - mean signal in first 2 directions",-1,0,1,5.27,6.4,1,1.01,0.03,0,0
+"215",33065,150,700,1000,20,"trianglejitter - mean signal in first 2 directions",-1,0,0,5.31,6.36,1,1.01,0.04,0,0
+"216",33066,150,700,1000,4,"trianglejitter - mean signal in first 2 directions",6,0,0,5.33,6.4,1,1,0,0,0
+"217",33067,150,700,1000,8,"trianglejitter - mean signal in first 2 directions",6,0,0,5.28,6.4,1,1,0,0,0
+"218",33068,150,700,1000,12,"trianglejitter - mean signal in first 2 directions",6,0,0,5.31,6.39,1,1,0.01,0,0
+"219",33069,150,700,1000,16,"trianglejitter - mean signal in first 2 directions",6,0,0,5.31,6.37,1,1,0.02,0,0
+"220",33070,150,700,1000,20,"trianglejitter - mean signal in first 2 directions",6,0,0,5.33,6.39,1,1,0.03,0,0
+"221",33071,150,700,1000,4,"trianglejitter - mean signal in first 2 directions",3,0,0,8.52,9.78,1.01,1.01,0,0,0
+"222",33072,150,700,1000,8,"trianglejitter - mean signal in first 2 directions",3,0,0,7.63,8.94,1.01,1.01,0,0,0
+"223",33073,150,700,1000,12,"trianglejitter - mean signal in first 2 directions",3,0,0,7.62,8.99,1.01,1.02,0.01,0,0
+"224",33074,150,700,1000,16,"trianglejitter - mean signal in first 2 directions",3,0,0,7.59,8.97,1.01,1.02,0.01,0,0
+"225",33075,150,700,1000,20,"trianglejitter - mean signal in first 2 directions",3,0,0,8.53,9.72,1.01,1.02,0.02,0,0
+"226",34001,150,700,1,4,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,5.57,7.53,1.02,1.04,0.13,0.01,0.01
+"227",34002,150,700,1,8,"trianglejitter - mean signal in 2nd and 3rd directions",-1,481,679,8.71,13.14,2.47,2.67,0.78,0.69,0.74
+"228",34003,150,700,1,12,"trianglejitter - mean signal in 2nd and 3rd directions",-1,896,921,9.81,13.61,2.9,2.92,0.96,0.94,0.95
+"229",34004,150,700,1,16,"trianglejitter - mean signal in 2nd and 3rd directions",-1,971,982,9.67,13.5,2.97,2.98,0.99,0.98,0.99
+"230",34005,150,700,1,20,"trianglejitter - mean signal in 2nd and 3rd directions",-1,979,982,9.82,13.64,2.98,2.98,0.99,0.99,0.99
+"231",34006,150,700,1,4,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,4.72,6.45,1,1,0.05,0,0
+"232",34007,150,700,1,8,"trianglejitter - mean signal in 2nd and 3rd directions",6,111,122,9.23,11.13,1.73,1.77,0.6,0.34,0.35
+"233",34008,150,700,1,12,"trianglejitter - mean signal in 2nd and 3rd directions",6,797,800,9.87,12.05,2.8,2.8,0.91,0.88,0.88
+"234",34009,150,700,1,16,"trianglejitter - mean signal in 2nd and 3rd directions",6,935,937,8.81,10.84,2.94,2.94,0.97,0.96,0.96
+"235",34010,150,700,1,20,"trianglejitter - mean signal in 2nd and 3rd directions",6,959,962,8.81,10.92,2.96,2.96,0.99,0.98,0.98
+"236",34011,150,700,1,4,"trianglejitter - mean signal in 2nd and 3rd directions",3,225,232,8.76,10.48,2.19,2.21,0,0,0
+"237",34012,150,700,1,8,"trianglejitter - mean signal in 2nd and 3rd directions",3,182,181,28.12,32.62,2.01,2.03,0.07,0.01,0.01
+"238",34013,150,700,1,12,"trianglejitter - mean signal in 2nd and 3rd directions",3,261,273,28.42,33.7,2.27,2.32,0.43,0.29,0.3
+"239",34014,150,700,1,16,"trianglejitter - mean signal in 2nd and 3rd directions",3,494,516,30.76,36.74,2.96,3.05,0.7,0.74,0.75
+"240",34015,150,700,1,20,"trianglejitter - mean signal in 2nd and 3rd directions",3,670,625,31.24,37.24,3.15,3.25,0.82,0.89,0.9
+"241",34016,150,700,10,4,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,4.34,5.32,1.01,1.01,0.08,0,0
+"242",34017,150,700,10,8,"trianglejitter - mean signal in 2nd and 3rd directions",-1,334,499,7.81,10.89,2.19,2.37,0.72,0.55,0.61
+"243",34018,150,700,10,12,"trianglejitter - mean signal in 2nd and 3rd directions",-1,867,884,9.1,11.68,2.87,2.88,0.95,0.93,0.93
+"244",34019,150,700,10,16,"trianglejitter - mean signal in 2nd and 3rd directions",-1,957,968,9.6,12.26,2.96,2.97,0.98,0.98,0.98
+"245",34020,150,700,10,20,"trianglejitter - mean signal in 2nd and 3rd directions",-1,967,971,9.61,12.29,2.97,2.97,0.99,0.98,0.99
+"246",34021,150,700,10,4,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,4.97,6.12,1,1,0.04,0,0
+"247",34022,150,700,10,8,"trianglejitter - mean signal in 2nd and 3rd directions",6,21,27,5.14,6.54,1.37,1.39,0.5,0.18,0.18
+"248",34023,150,700,10,12,"trianglejitter - mean signal in 2nd and 3rd directions",6,691,715,18.42,23.49,2.67,2.7,0.88,0.81,0.82
+"249",34024,150,700,10,16,"trianglejitter - mean signal in 2nd and 3rd directions",6,870,873,19,23.96,2.87,2.88,0.96,0.93,0.94
+"250",34025,150,700,10,20,"trianglejitter - mean signal in 2nd and 3rd directions",6,935,938,19.1,24.06,2.94,2.94,0.98,0.97,0.97
+"251",34026,150,700,10,4,"trianglejitter - mean signal in 2nd and 3rd directions",3,201,199,17.91,22.18,2,2,0,0,0
+"252",34027,150,700,10,8,"trianglejitter - mean signal in 2nd and 3rd directions",3,162,165,17.18,21.47,1.87,1.9,0.06,0.01,0.01
+"253",34028,150,700,10,12,"trianglejitter - mean signal in 2nd and 3rd directions",3,200,198,16.94,21.38,2,2.04,0.4,0.2,0.21
+"254",34029,150,700,10,16,"trianglejitter - mean signal in 2nd and 3rd directions",3,440,429,18.24,23.5,2.7,2.79,0.69,0.64,0.66
+"255",34030,150,700,10,20,"trianglejitter - mean signal in 2nd and 3rd directions",3,633,616,19.19,24.48,3.03,3.14,0.81,0.85,0.86
+"256",34031,150,700,50,4,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,8.53,10.55,1,1,0.01,0,0
+"257",34032,150,700,50,8,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,8.6,10.58,1.01,1.01,0.2,0.01,0.01
+"258",34033,150,700,50,12,"trianglejitter - mean signal in 2nd and 3rd directions",-1,77,96,8.9,10.93,1.39,1.42,0.68,0.21,0.23
+"259",34034,150,700,50,16,"trianglejitter - mean signal in 2nd and 3rd directions",-1,537,582,10.29,13.2,2.36,2.44,0.91,0.7,0.74
+"260",34035,150,700,50,20,"trianglejitter - mean signal in 2nd and 3rd directions",-1,796,821,10.7,13.93,2.77,2.81,0.95,0.9,0.92
+"261",34036,150,700,50,4,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,8.63,10.48,1,1,0.01,0,0
+"262",34037,150,700,50,8,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,8.87,10.98,1,1,0.1,0,0
+"263",34038,150,700,50,12,"trianglejitter - mean signal in 2nd and 3rd directions",6,3,2,8.99,11.09,1.09,1.1,0.48,0.05,0.06
+"264",34039,150,700,50,16,"trianglejitter - mean signal in 2nd and 3rd directions",6,147,180,9.47,11.7,1.57,1.63,0.8,0.3,0.33
+"265",34040,150,700,50,20,"trianglejitter - mean signal in 2nd and 3rd directions",6,576,650,11.86,16.19,2.42,2.54,0.92,0.72,0.77
+"266",34041,150,700,50,4,"trianglejitter - mean signal in 2nd and 3rd directions",3,13,14,8.99,11.16,1.18,1.19,0,0,0
+"267",34042,150,700,50,8,"trianglejitter - mean signal in 2nd and 3rd directions",3,11,11,9.01,11.15,1.18,1.18,0.02,0,0
+"268",34043,150,700,50,12,"trianglejitter - mean signal in 2nd and 3rd directions",3,7,8,8.87,11.12,1.13,1.14,0.16,0,0
+"269",34044,150,700,50,16,"trianglejitter - mean signal in 2nd and 3rd directions",3,17,23,9.02,11.24,1.22,1.23,0.45,0.05,0.05
+"270",34045,150,700,50,20,"trianglejitter - mean signal in 2nd and 3rd directions",3,120,140,9.36,11.62,1.55,1.62,0.67,0.22,0.24
+"271",34046,150,700,100,4,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,9.03,11.17,1,1,0.01,0,0
+"272",34047,150,700,100,8,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,8.87,11,1,1,0.07,0,0
+"273",34048,150,700,100,12,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,8.97,11.1,1.02,1.02,0.29,0.01,0.01
+"274",34049,150,700,100,16,"trianglejitter - mean signal in 2nd and 3rd directions",-1,21,29,9.08,11.25,1.22,1.25,0.57,0.12,0.14
+"275",34050,150,700,100,20,"trianglejitter - mean signal in 2nd and 3rd directions",-1,283,342,9.41,12.15,1.82,1.94,0.84,0.43,0.48
+"276",34051,150,700,100,4,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,5.72,7.05,1,1,0,0,0
+"277",34052,150,700,100,8,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,5.69,7.06,1,1,0.03,0,0
+"278",34053,150,700,100,12,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,5.7,7.04,1,1,0.17,0,0
+"279",34054,150,700,100,16,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,1,5.7,7.11,1.05,1.05,0.41,0.03,0.03
+"280",34055,150,700,100,20,"trianglejitter - mean signal in 2nd and 3rd directions",6,48,71,9.45,11.64,1.27,1.33,0.67,0.15,0.17
+"281",34056,150,700,100,4,"trianglejitter - mean signal in 2nd and 3rd directions",3,2,2,9.23,11.53,1.05,1.05,0,0,0
+"282",34057,150,700,100,8,"trianglejitter - mean signal in 2nd and 3rd directions",3,1,2,9.29,11.62,1.06,1.07,0.01,0,0
+"283",34058,150,700,100,12,"trianglejitter - mean signal in 2nd and 3rd directions",3,1,1,9.31,11.46,1.06,1.07,0.05,0,0
+"284",34059,150,700,100,16,"trianglejitter - mean signal in 2nd and 3rd directions",3,0,1,9.37,11.52,1.05,1.06,0.2,0,0
+"285",34060,150,700,100,20,"trianglejitter - mean signal in 2nd and 3rd directions",3,9,11,9.28,11.55,1.12,1.13,0.41,0.03,0.03
+"286",34061,150,700,1000,4,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,9.21,11.45,1,1.01,0,0,0
+"287",34062,150,700,1000,8,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,9.24,11.49,1,1.01,0,0,0
+"288",34063,150,700,1000,12,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,9.26,11.52,1,1.01,0.01,0,0
+"289",34064,150,700,1000,16,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,9.23,11.48,1,1.01,0.02,0,0
+"290",34065,150,700,1000,20,"trianglejitter - mean signal in 2nd and 3rd directions",-1,0,0,9.2,11.54,1,1.01,0.03,0,0
+"291",34066,150,700,1000,4,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,9.2,11.45,1,1,0,0,0
+"292",34067,150,700,1000,8,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,9.31,11.5,1,1,0,0,0
+"293",34068,150,700,1000,12,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,9.26,11.48,1,1,0.01,0,0
+"294",34069,150,700,1000,16,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,9.19,11.47,1,1,0.01,0,0
+"295",34070,150,700,1000,20,"trianglejitter - mean signal in 2nd and 3rd directions",6,0,0,9.27,11.43,1,1,0.02,0,0
+"296",34071,150,700,1000,4,"trianglejitter - mean signal in 2nd and 3rd directions",3,0,0,9.07,11.32,1.01,1.02,0,0,0
+"297",34072,150,700,1000,8,"trianglejitter - mean signal in 2nd and 3rd directions",3,0,1,9.01,11.29,1.01,1.02,0,0,0
+"298",34073,150,700,1000,12,"trianglejitter - mean signal in 2nd and 3rd directions",3,0,0,9.04,11.32,1.01,1.02,0,0,0
+"299",34074,150,700,1000,16,"trianglejitter - mean signal in 2nd and 3rd directions",3,0,0,9.25,11.27,1.01,1.02,0.01,0,0
+"300",34075,150,700,1000,20,"trianglejitter - mean signal in 2nd and 3rd directions",3,0,0,9.21,11.39,1.01,1.02,0.01,0,0
