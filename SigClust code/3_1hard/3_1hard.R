@@ -183,7 +183,7 @@ pvals = melt(pvals, measure.vars=as.character(v), variable.name="v",
 p = ggplot() + stat_ecdf(dat=pvals, aes(x=pvalue, linetype=v, colour=v)) +
   xlim(0, 1) + geom_vline(xintercept=0.05, color="gray45") +
   labs(x="p-value", y="Empirical Distribution") + 
-  ggtitle("Single Gaussian (hard)") +
+  ggtitle("Hard Method (Single Gaussian)") +
   theme(plot.title = element_text(hjust = 0.5)) + 
   annotate(geom = "text", label = bquote(alpha == .(0.05)), x = 0.05, y = 1.1, 
            size=5) + 

@@ -116,7 +116,7 @@ pvals = melt(pvals, measure.vars=as.character(a), variable.name="a",
 p = ggplot() + stat_ecdf(dat=pvals, aes(x=pvalue, linetype=a, colour=a)) + 
   xlim(0, 1) + geom_vline(xintercept=0.05, color="gray45") +
   labs(x="p-value", y="Empirical Distribution") + 
-  ggtitle("Mixture of Gaussians - Signal in All Directions (soft)") +
+  ggtitle("Soft Method (Mixture 2 Gauss. - All Directions)") +
   theme(plot.title = element_text(hjust = 0.5)) + 
   annotate(geom = "text", label = bquote(alpha == .(0.05)), x = 0.05, y = 1.1, 
            size=5) + 
