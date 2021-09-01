@@ -1,5 +1,5 @@
 # This submission script is used to submit the R Script `sims.R' to the cluster
-# so as to obtain text file `outputs' which can then be parsed 
+# so as to obtain folder `outputs' with text files which can then be parsed 
 # using the R Script `sims_parse.R'.
  
 # For better understanding, compare the following submission script to the
