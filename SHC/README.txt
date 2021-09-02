@@ -1,17 +1,23 @@
-For SHC:
-
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 Significance for Hierarchical Clustering (SHC) simulation code
 Original author: Patrick Kimes (patrick.kimes@gmail.com)
 Edited by: Steve Fayek (steve.fayek20@imperial.ac.uk)
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 
-This directory contains four folders:
-    * pkgSHC/       : code/ documentation implementing the SHC procedure,
-    * sims/         : code used for the simulations presented in the paper
+This directory contains three folders:
+    * checks_gaussianity_nsim	: code used for experiments to justify the use of 
+				  gaussian-approximated p-values, and the use of
+				  Nsim=100 instead of 1000
+    * hpc_submission_scripts	: main submission script which results in text 
+				  file outputs; second script to parse output
+    * simulations		: contains the following:
+    	* pkgSHC/        : code/ documentation implementing the SHC procedure,
+    	* sims/          : code used for the simulations presented in the paper
+        * excel_outputs/ : excel files with output used to obtain tables in project
 
+Relevant comments:
     = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
-    * pkgSHC/ directory
+    * pkgSHC/ folder
 
     The "pkgSHC/" directory is structured similar to a traditional R package,
     and may be loaded from the R command line by:
@@ -27,7 +33,7 @@ This directory contains four folders:
 
 
     = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
-    * sims/ directory
+    * sims/ folder
 
     The "sims/" directory contains R scripts which were used to perform the 
     simulations presented in the accompanying paper. This includes:
