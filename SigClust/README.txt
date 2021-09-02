@@ -11,3 +11,6 @@ This directory contains two folders:
 				   single Gaussian and mixture of two Gaussians 
 				   with mean signal in one direction and in all 
 				   directions.
+				   
+The code underlying the sigclust() function can be accessed at:
+https://rdrr.io/cran/sigclust/src/R/sigclust.R
